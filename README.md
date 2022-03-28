@@ -35,3 +35,6 @@ This visualization identifies which bikes might be in need of maintenance or rep
 <img width="906" alt="Screen Shot 2022-03-27 at 9 53 57 PM" src="https://user-images.githubusercontent.com/95303422/160313443-dd1c46aa-6bc9-44c3-9e9a-c40befcc7f91.png">
 
 This map simply displays the most popular locations for bike rides in NYC. Due to tourists and many commuters, the most rides occur in Manhatten.
+
+## Summary
+At a high-level, the results suggest that capturing the commuter market is critical to the success of Citibike. Additionally, males and subscribers comprise the majority of users. Therefore, if there is a need for alternative commuting options in Des Moines, Citibike should have no problem becoming popular. If men in Des Moines can bike to and from their jobs in under 30 min, the company will catch on in this market.
