@@ -1,4 +1,4 @@
-# bikesharing with Tableau
+# Bike Sharing with Tableau
 ### Visualizing bike trip data to create a proposal for expansion into new markets
 
 ## Overview
@@ -6,7 +6,7 @@ As a hypothetical bike-share company, Citibike has experienced success in New Yo
 
 ## Results
 
-[link to dashboard](https://public.tableau.com/app/profile/steven.woodring/viz/NYCCitibikeChallenge_16484254135820/Story1?publish=yes)
+#### [Link to Dashboard](https://public.tableau.com/app/profile/steven.woodring/viz/NYCCitibikeChallenge_16484254135820/Story1?publish=yes)
 
 <img width="906" alt="Screen Shot 2022-03-27 at 9 50 40 PM" src="https://user-images.githubusercontent.com/95303422/160313177-ea7aeac6-dc29-4508-ab10-b67eb36ffcb3.png">
 
