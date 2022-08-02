@@ -1,5 +1,5 @@
 # Bike Sharing with Tableau
-### Visualizing bike trip data to create a proposal for expansion into new markets
+### Visualizing bike trip data to support a proposal for expansion into new markets
 
 ## Overview
 As a hypothetical bike-share company, Citibike has experienced success in New York City, and is now considering an expansion into the Des Moines market. The following visualizations support the expansion and serve as a proposal to Citibike's shareholders.
